@@ -27,5 +27,8 @@ The cascaded controller could not be reliably tuned using the Control System Des
 - Simulation and Testing
 The final step was to simulate and test the control system using Simulink. The simulation results were analyzed to verify that the control system met its performance requirements.
 
+![untitled](https://github.com/omarequalmars/LinearServoCascadedPI/assets/90857121/4ec06f2f-9f0c-4fbc-a964-10c70393e610)
+
+
 # Documentation
 The repository includes detailed documentation on its system model, controller design, simulation results, and parameter estimation. This documentation provides a comprehensive overview of this project and can be used as a reference for anyone interested in control systems design and implementation using Simulink.
